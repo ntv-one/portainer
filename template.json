@@ -8174,25 +8174,7 @@
                 }
             ]
         },
-        {
-            "categories": [
-                "Monitoring"
-            ],
-            "description": "Collect events and metrics",
-            "env": [{
-                "label": "Datadog API key",
-                "name": "API_KEY"
-            }],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/datadog_agent.png",
-            "platform": "linux",
-            "repository": {
-                "stackfile": "stacks/datadog-agent/docker-stack.yml",
-                "url": "https://github.com/mikestraney/portainer-templates"
-            },
-            "title": "Datadog agent",
-            "type": 2
-        },
-        {
+        `` {
             "categories": [
                 "CMS"
             ],
@@ -8752,30 +8734,6 @@
                 "bind": "/var/run/docker.sock",
                 "container": "/var/run/docker.sock"
             }]
-        },
-        {
-            "categories": [
-                "Log Management",
-                "Monitoring"
-            ],
-            "description": "Collect logs, metrics and docker events",
-            "env": [{
-                    "label": "Logs token",
-                    "name": "LOGSENE_TOKEN"
-                },
-                {
-                    "label": "SPM monitoring token",
-                    "name": "SPM_TOKEN"
-                }
-            ],
-            "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/sematext_agent.png",
-            "platform": "linux",
-            "repository": {
-                "stackfile": "stacks/sematext-agent-docker/docker-stack.yml",
-                "url": "https://github.com/mikestraney/portainer-templates"
-            },
-            "title": "Sematext Docker Agent",
-            "type": 2
         },
         {
             "categories": [
