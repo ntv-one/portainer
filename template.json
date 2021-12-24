@@ -1,7 +1,6 @@
 {
     "version": "2",
-    "templates": 
-    [
+    "templates": [
         {
             "categories": [
                 "Other"
@@ -7228,7 +7227,6 @@
                 "container": "/dashmachine/dashmachine/user_data"
             }]
         },
-
         {
             "categories": [
                 "Other",
@@ -8176,7 +8174,7 @@
                 }
             ]
         },
-        `` {
+        {
             "categories": [
                 "CMS"
             ],
@@ -8853,7 +8851,6 @@
                 "container": "/var/urbackup"
             }]
         },
-
         {
             "categories": [
                 "CMS"
