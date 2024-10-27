@@ -10,15 +10,11 @@ If you would like to easily create/maintain your own aggregated templates file, 
 
 This repository contains a combined `template.json` for Portainer, aggregated from these sources: 
 
-https://raw.githubusercontent.com/dnburgess/self-hosted-template/master/template.json
-
-https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
-
-https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json
-
-https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
-
-https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json
+- https://raw.githubusercontent.com/dnburgess/self-hosted-template/master/template.json
+- https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
+- https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json
+- https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
+- https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json
 
 ## Disclaimer
 
